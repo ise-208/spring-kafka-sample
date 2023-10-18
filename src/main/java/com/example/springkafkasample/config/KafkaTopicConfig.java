@@ -1,4 +1,4 @@
-package com.example.springkafkasample;
+package com.example.springkafkasample.config;
 
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
